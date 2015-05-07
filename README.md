@@ -1,6 +1,8 @@
 # eedomus_LightBerry
 Script de contrôle du LightBerry depuis eedomus
 
+NB : Script à installer sur serveur web/php autre que l'eedomus elle-même
+
 Pour ceux qui ont un Lightberry (Ambilight sur Raspberry) contrôlé par Hyperion, 
 il vous est possible de piloter les led à partir de requêtes http.
 
